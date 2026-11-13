@@ -1,0 +1,6 @@
+# Per-computer state: adapter names, Switch address, machine ID
+btspeakertray.json
+btspeakertray.json.tmp
+# Bluetooth captures hold pairing keys
+*.btsnoop
+__pycache__/
